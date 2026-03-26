@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "docs-milodev",
+    "tren-cosmos-docs": "tren-cosmos-docs"
+  },
+  "targets": {},
+  "etags": {}
+}
